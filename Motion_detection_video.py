@@ -1,6 +1,6 @@
 import cv2, time
 
-camera = cv2.VideoCapture(0 ,)
+camera = cv2.VideoCapture(0 )
 
 a = 1
 
